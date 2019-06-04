@@ -1,0 +1,12 @@
+1st meeting with nils - 
+3 papers to review - 1st step is to investgate unit of scale
+- either network, cluster, or geogrid approach - can talk to sanjeev 
+about this 
+
+TODO: 
+organise weekly meeting with sanjeev - send some overview papers across.
+get on same page 
+organise meet up with nils and sanjeev 
+- look into data sets - acled icews prio ucdp. 
+- need to learn sql? 
+
