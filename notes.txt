@@ -3,6 +3,7 @@
 - either network, cluster, or geogrid approach - can talk to sanjeev 
 about this 
 
+04/06/2019
 TODO: 
 organise weekly meeting with sanjeev - send some overview papers across.
 get on same page 
@@ -15,9 +16,11 @@ VIEWS: A POLITICAL VIOLENCE EARLY-WARNING SYSTEM.
 V GOOD AT PREDICTION AT LOWER LEVEL - PGM 99.1% ACCURACY 
 LOWER ON CM GRID LEVEL PREDICTION IS 93.1 OR WHATEVER.
 SAYS NOT AS GOOD AT PREDICTING START OF CONFLICT - POTENTIAL IN???
-
 ONLY IN AFRICA. 
+different ensembling methods.
 
+
+05/06/2019
 TODO
 LOOK AT DATA THAT NILS WAS ON ABOUT
 EMAIL SANJEEV
