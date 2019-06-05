@@ -24,10 +24,20 @@ different ensembling methods.
 TODO
 LOOK AT DATA THAT NILS WAS ON ABOUT - ACLED, UCDP, PRIO 
 EMAIL SANJEEV
+LOOK AT MATPLOTLIB PLOTTING ECT. 
 send nils mark scheme and requirements for the project.
 
 CLONE VIEWS BRANCH - HAVE A PLAY WITH THE DATA.
 osa - one step ahead has most of the iunteresting stuff in it. 
+
+SPATIAL ECOLOGY OF WAR AND PEACE
+uses betweenness / degree as a predictor (strategic centrality). use this to predict 74% of conflict from centrality > 10^4
+uses agent based models in culture swapping game to find the culture clusters - some flicker back and forth between dominant cultures - these are then ones in whihc have high strategic centrality and ahve a high risk of terorism.
+
+data is from - global terrorism database (GTD)
+Prio - ucdp database for non terrorism.
+
+
 
 
 
