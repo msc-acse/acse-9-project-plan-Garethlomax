@@ -22,8 +22,12 @@ different ensembling methods.
 
 05/06/2019
 TODO
-LOOK AT DATA THAT NILS WAS ON ABOUT
+LOOK AT DATA THAT NILS WAS ON ABOUT - ACLED, UCDP, PRIO 
 EMAIL SANJEEV
+send nils mark scheme and requirements for the project.
+
+CLONE VIEWS BRANCH - HAVE A PLAY WITH THE DATA.
+osa - one step ahead has most of the iunteresting stuff in it. 
 
 
 
