@@ -38,6 +38,19 @@ data is from - global terrorism database (GTD)
 Prio - ucdp database for non terrorism.
 
 
+06/06/2019
+Look at the data
+icews - narrow down which are being used 
+alced 
+prio - only for africa?
+ucdp
+david cunningham maryland, zhukov epidemic - final - interesting data manipulation. 
+decide what type of machine learning to apply - making pipelines ect. 
+GOT CARTOPY INSTALLED. 
+LOOK AT NOE PAPER - WRITE ONE PAGE OF LIT REVIEW.
+ 
+
+
 
 
 
