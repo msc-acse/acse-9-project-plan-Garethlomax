@@ -22,8 +22,6 @@ different ensembling methods.
 
 05/06/2019
 TODO
-LOOK AT DATA THAT NILS WAS ON ABOUT - ACLED, UCDP, PRIO 
-EMAIL SANJEEV
 LOOK AT MATPLOTLIB PLOTTING ECT. 
 send nils mark scheme and requirements for the project.
 
